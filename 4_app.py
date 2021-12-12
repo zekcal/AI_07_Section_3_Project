@@ -53,8 +53,6 @@ def home():
 
         return render_template('index.html', pred=pred)
 
-# if __name__ == '__main__':
-#     model = joblib.load('./knn_model.pkl')
-#     app.run(host='0.0.0.0', port=8000, debug=True)
-
-
+if __name__ == '__main__':
+    model = joblib.load('./knn_model.pkl')
+    app.run(host='0.0.0.0', port=8000, debug=True)
