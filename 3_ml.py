@@ -6,7 +6,6 @@ import numpy as np
 from sklearn.model_selection import train_test_split #df 나누기
 from sklearn.tree import DecisionTreeClassifier #트리
 from sklearn.ensemble import RandomForestClassifier #랜덤포레스트
-from sklearn.pipeline import make_pipeline #파이프라인
 from xgboost import XGBClassifier #xgboost
 from lightgbm import LGBMClassifier #lgbm
 from sklearn.metrics import f1_score #평가
