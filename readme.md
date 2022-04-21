@@ -9,7 +9,7 @@
 섹션 3에서 배운 데이터베이스에 저장, 배포를 모두 활용하고자 하였습니다.
 
 #### 4. 프로젝트의 진행 순서는 크게 '데이터 크롤링 - 데이터베이스에 저장 - 머신 러닝을 활용해 API 서비스 개발 - 대시보드 제작 - 배포'입니다.  
-구체적인 과정은 각 ipynb 파일을 참조해주시면 감사하겠습니다. 추가적으로, 데이터베이스에 저장은 MongoDB, 머신 러닝을 활용해 API 서비스 개발에선 LGBMClassfier, 대시보드에선 Google Data Studio, 배포에선 heroku를 활용하였습니다.
+구체적인 과정은 각 ipynb 파일을 참조해주시면 감사하겠습니다. 추가적으로, 데이터베이스에 저장은 MongoDB, 머신 러닝을 활용해 API 서비스 개발에선 LGBMClassfier, 대시보드에선 [Google Data Studio](https://datastudio.google.com/s/gBCHrmJ5XGE), 배포에선 heroku를 활용하였습니다.
 
 #### 5. 이 프로젝트를 진행하며 느낀점은 다음과 같습니다.  
   1. 많은 에러    
