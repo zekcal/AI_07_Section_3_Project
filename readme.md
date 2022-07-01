@@ -26,7 +26,7 @@
   - 가장 점수가 높았던 **LGBM** 모델을 사용하기로 결정
   
 - **대시보드 제작**
-  - 빠르고 간편하게 사용할 수 있어서 **[Google Data Studio](https://datastudio.google.com/s/gBCHrmJ5XGE)**를 사용함
+  - 빠르고 간편하게 사용할 수 있어서 [Google Data Studio](https://datastudio.google.com/s/gBCHrmJ5XGE)를 사용함
 
 - **배포**
   - 간단한 구조이기 때문에 **heroku**를 사용해 진행함
