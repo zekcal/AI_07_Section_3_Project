@@ -1,7 +1,8 @@
 # TFT_Winning_Rate_Calculator
 <img src="https://post-phinf.pstatic.net/MjAyMDAzMDRfMTQ0/MDAxNTgzMjc4MDY2MTk1.ohy8FPuqnaVnQ2j62Oy99IzNDLSAxJrApamMqQm6tekg.s-S8C9hbihqFXVkTYWR9dvvT_QlAp0HwqHfD7cC76zYg.JPEG/1-960x540.jpg" width="480" height="270">
+
 #### 1. 프로젝트 개요 : 전략적 팀 전투 승률 계산기
-8명이 진행해 순위를 가리는 Riot Games의 게임인 **전략적 팀 전투(이하 TFT)**에서,
+8명이 진행해 순위를 가리는 Riot Games의 게임인 **전략적 팀 전투**(이하 TFT)에서,
   1. 현재 플레이어의 '챔피언'이 가진 '특성'과 '계열'의 조합을 토대로 **승패를 예측**할 수 있을 것이며 이를 통해 더 나은 승률을 얻을 수 있을 것이다.  
   2. 이를 통해 사이트 유저를 모을 수 있을 것이며 이용자가 생기면 이를 통해 배포 페이지 내 광고 삽입 등의 방법으로 수익을 얻을 수 있을 것이다.  
 라는 가설을 세우고 프로젝트를 진행함
